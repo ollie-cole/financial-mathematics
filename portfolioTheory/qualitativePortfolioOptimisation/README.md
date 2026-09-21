@@ -22,5 +22,5 @@ All materials herein are intended solely for educational purposes and are not fi
 
 ## Contact
 
-Regarding any queries, bug reports, or suggestions, please reach out via email at: o.cole1-24@student.lboro.ac.uk.
+Regarding any queries, bug reports, or corrections, please reach out via email at: o.cole1-24@student.lboro.ac.uk.
 

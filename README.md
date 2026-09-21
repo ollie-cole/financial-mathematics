@@ -19,5 +19,5 @@ All materials are entirely my own, and in particular, not products of artificial
 
 ## Contact
 
-Regarding any queries, bug reports, or suggestions, please reach out via email at: o.cole1-24@student.lboro.ac.uk.
+Regarding any queries, bug reports, or corrections, please reach out via email at: o.cole1-24@student.lboro.ac.uk.
 
